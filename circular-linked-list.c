@@ -25,7 +25,7 @@ int main()
 	char command;
 	int key;
 	listNode* headnode=NULL;    //포인터변수 선언+NULL로 초기화
-    printf("-----------------------2021041022 ParkBeomJJun-------------------\n");
+    printf("-----------------------2021041022 ParkBeomJun-------------------\n");
 	do{
 		printf("----------------------------------------------------------------\n");      //메뉴얼 출력
 		printf("                  Doubly Circular Linked List                   \n");
